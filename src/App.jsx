@@ -1,4 +1,4 @@
-import GridDestinos from './components/gridDestinos.jsx'
+import GridDestinos from './components/GridDestinos'
 
 function App() {
   return (

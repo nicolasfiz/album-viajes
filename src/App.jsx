@@ -1,4 +1,5 @@
-import GridDestinos from './components/gridDestinos'
+import GridDestinos from './components/gridDestinos.jsx'
+
 function App() {
   return (
     <main className="text-center flex flex-col justify-center items-center mx-3 my-2">

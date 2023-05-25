@@ -1,5 +1,4 @@
 function CardDestinos({destino}) {
-  console.log(destino.image)
   return (
     <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow ">
       <img className="rounded-t-lg" src={destino.image} alt={destino.title+'_image'} />

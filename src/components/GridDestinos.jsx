@@ -1,4 +1,4 @@
-import CardDestinos from './cardDestino'
+import CardDestinos from './CardDestinos'
 import destinos from '../mocks/destinos'
 
 function GridDestinos() {

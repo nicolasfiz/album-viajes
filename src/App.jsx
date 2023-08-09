@@ -7,11 +7,11 @@ import Lisboa from "./pages/lisboa";
 
 const router = createBrowserRouter([
   {
-    path: "/album-viajes",
+    path: "/album-viajes/inicio",
     element: <Home />,
   },
   {
-    path: "/album-viajes/lisboa",
+    path: "/album-viajes",
     element: <Lisboa />
   }
 
